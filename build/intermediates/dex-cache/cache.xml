@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\finans\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba0f969d0404f32b61d20daadd8e7c96c2048b4b">
+        <dex dex="C:\Users\user\Desktop\finans\build\intermediates\pre-dexed\debug\unity-classes_d51d7e36125d01000b7103705442cbafb4f86979.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\finans\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\user\Desktop\finans\build\intermediates\pre-dexed\debug\Vuforia_118b625b6adc200b546f635f58f12f4410303347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Desktop\finans\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\user\Desktop\finans\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_6151b56feffc0dc4a01002d9110e40c904ebdd49.jar" />
+    </item>
+
+</items>
